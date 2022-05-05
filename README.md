@@ -6,6 +6,7 @@ This is a system that allows a broadcaster to send encrypted messages to a set o
 
 - Obi-Nnagbo Somkene Gerald
 - Vincent Daniel
+- Iwuxhukwu Vitalis
 ## Contributing
 
 Contributions are always welcome!
@@ -28,7 +29,7 @@ To deploy this project run
 
 Run the local host, for example XAMPP
 
-Upload the database
+Upload the database or create a database with the name "mail-cryptography"
 
 Run 'localhost/mail-cryptography/public'
 
